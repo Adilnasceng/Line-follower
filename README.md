@@ -91,10 +91,3 @@ You can tune these values to better match your robot's behavior and environment.
 
 * Ensure the robot is placed on a surface with high contrast black lines.
 * The robot stops and GPIO pins are safely cleaned up at the end of execution.
-
-## 🖼 Screenshots
-
-| Window               | Description                           |
-| -------------------- | ------------------------------------- |
-| `Binary`             | Thresholded binary image of the frame |
-| `Original with line` | Original image with drawn contours    |
