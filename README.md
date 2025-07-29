@@ -15,6 +15,7 @@ This project uses a Raspberry Pi and PiCamera to follow a black line on the grou
 - Raspberry Pi (3 or 4)
 - PiCamera
 - 2 DC motors
+- Power Supply
 - Motor driver (e.g., L298N, BTS7960)
 - Robot chassis with black line track
 
